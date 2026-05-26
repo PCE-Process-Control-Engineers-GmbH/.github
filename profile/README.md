@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pce_logo.png" alt="PCE Logo" width="220"/>
+<img src="./assets/pce_logo.png" alt="PCE Logo"/>
 
 # Process Control Engineers GmbH (PCE)
 
