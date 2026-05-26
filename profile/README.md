@@ -7,10 +7,12 @@
 ### Engineering Solutions for Industrial Automation & Process Control
 
 <p>
-  <a href="https://www.pce-ei.de/">
+  <a href="https://www.pce-ei.de/"> 
     <img src="https://img.shields.io/badge/Website-pce--ei.de-blue?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/Location-Germany-red?style=for-the-badge">
+  <a href="https://maps.app.goo.gl/ryUJ9RngoDtaCzrk8">
+    <img src="https://img.shields.io/badge/Location-Eichstätt%2C%20Germany-red?style=for-the-badge">
+</a>
   <img src="https://img.shields.io/badge/Industry-Industrial%20Engineering-darkgreen?style=for-the-badge">
 </p>
 
